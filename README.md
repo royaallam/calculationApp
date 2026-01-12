@@ -1,16 +1,13 @@
-# calculator_app_full
 
-A new Flutter project.
+لقد قمت بتصميم  آلة حاسبة باستخدام Flutter مع الاعتماد على عدة Widgets أساسية، منها:
+GridView
+Text
+Container
+من خلال تصميمي للتطبيق ما يميزه عن غيره وهي 
+●تنفيذ العمليات الحسابية الأساسية بدقة.
+●في حال ترك العملية بدون إدخال قيمة في النهاية ➜ لا يتم إظهار أي ناتج.
+●عند القسمة على صفر ➜ تظهر رسالة تنبيه للمستخدم.
+●عند تنفيذ العملية (0 ÷ 0) ➜ يتم عرض رسالة خطأ توضيحية.
+📱 المشروع ساعدني على فهم أعمق لكيفية التعامل مع الحالات الخاصة (Edge Cases) وتحسين تجربة المستخدم في تطبيقات Flutter.
+#Flutter #MobileDevelopment #Dart #UI #Calculator #LinkedInProjects
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
