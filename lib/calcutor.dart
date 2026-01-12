@@ -122,7 +122,7 @@ class _MyWidgetCalculAppState extends State<MyWidgetCalculApp> {
                     double result=exp.evaluate(EvaluationType.REAL, ContextModel());
                   if (result.isInfinite || result.isNaN) {
                     setState(() {
-                      output = "Error. .... try agin  ";
+                      output = "Error..... Try agin  ";
                     });
               
                     
